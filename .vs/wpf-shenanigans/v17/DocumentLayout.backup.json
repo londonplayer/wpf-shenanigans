@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\",
+  "WorkspaceRootPath": "C:\\repos\\wpf-shenanigans\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{979EA515-4E87-4993-910A-679D8BCF08BB}|wpf-shenanigans\\wpf-shenanigans.csproj|c:\\repos\\wpf-shenanigans\\wpf-shenanigans\\wpf-shenanigans\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{979EA515-4E87-4993-910A-679D8BCF08BB}|wpf-shenanigans\\wpf-shenanigans.csproj|c:\\repos\\wpf-shenanigans\\wpf-shenanigans\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979EA515-4E87-4993-910A-679D8BCF08BB}|wpf-shenanigans\\wpf-shenanigans.csproj|solutionrelative:wpf-shenanigans\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979EA515-4E87-4993-910A-679D8BCF08BB}|wpf-shenanigans\\wpf-shenanigans.csproj|c:\\repos\\wpf-shenanigans\\wpf-shenanigans\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{979EA515-4E87-4993-910A-679D8BCF08BB}|wpf-shenanigans\\wpf-shenanigans.csproj|solutionrelative:wpf-shenanigans\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{979EA515-4E87-4993-910A-679D8BCF08BB}|wpf-shenanigans\\wpf-shenanigans.csproj|c:\\repos\\wpf-shenanigans\\wpf-shenanigans\\wpf-shenanigans\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{979EA515-4E87-4993-910A-679D8BCF08BB}|wpf-shenanigans\\wpf-shenanigans.csproj|solutionrelative:wpf-shenanigans\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{979EA515-4E87-4993-910A-679D8BCF08BB}|wpf-shenanigans\\wpf-shenanigans.csproj|c:\\repos\\wpf-shenanigans\\wpf-shenanigans\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979EA515-4E87-4993-910A-679D8BCF08BB}|wpf-shenanigans\\wpf-shenanigans.csproj|solutionrelative:wpf-shenanigans\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedHeight": 408,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\App.xaml.cs",
+              "RelativeDocumentMoniker": "wpf-shenanigans\\App.xaml.cs",
+              "ToolTip": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\App.xaml.cs",
+              "RelativeToolTip": "wpf-shenanigans\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:41:54.714Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -31,26 +49,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\wpf-shenanigans\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "wpf-shenanigans\\MainWindow.xaml",
-              "ToolTip": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\wpf-shenanigans\\MainWindow.xaml",
-              "RelativeToolTip": "wpf-shenanigans\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-06T19:32:39.499Z",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpf-shenanigans\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpf-shenanigans\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:39:52.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\wpf-shenanigans\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "wpf-shenanigans\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\wpf-shenanigans\\MainWindow.xaml.cs",
-              "RelativeToolTip": "wpf-shenanigans\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T19:32:39.244Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "wpf-shenanigans\\MainWindow.xaml",
+              "ToolTip": "C:\\repos\\wpf-shenanigans\\wpf-shenanigans\\MainWindow.xaml",
+              "RelativeToolTip": "wpf-shenanigans\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-06T19:40:06.519Z",
               "EditorCaption": ""
             }
           ]
